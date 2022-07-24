@@ -1,0 +1,24 @@
+Now download the chromedriver...
+NOTE : To download the chromedriver follow the steps as it is..
+
+1 . Open the chrome browser and click the three dots which you can find it right corner of the home page
+2 . Select help and then choose About Google Chrome
+3 . Now you can find the chrome version you are using.. (In my case my version is : Version 103.0.5060.134 (Official Build) (64-bit))
+4 . Now open another tab and search for
+    WebDriver for Chrome - Downloads or open the url https://chromedriver.chromium.org
+5 . Download the same version which you are using..
+    If you are using Chrome version 104, please download ChromeDriver 104.0.5112.29
+
+    If you are using Chrome version 103, please download ChromeDriver 103.0.5060.134
+
+    If you are using Chrome version 102, please download ChromeDriver 102.0.5005.61
+
+    likewise you can find other versions... It is very important to download the same version..
+
+6 . Now extract the downloaded webdriver ..
+7 . Copy the chromedriver.exe file into a folder where you want to create your bot.
+ {
+     In my case I created a folder name "BOT" and I copied the chromedriver.exe file into it.
+ }
+8 . Now open the folder you created, with your programming software..
+    In my case I'm using visual studio code(vs code).. And I will recomend to use this software
